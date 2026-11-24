@@ -1,34 +1,49 @@
-# Awesome Peer-to-Peer (P2P) Networking & Distributed Data Systems [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<div align="center">
 
-> A curated directory of production-ready SaaS platforms, enterprise solutions, and open-source GitHub projects for Peer-to-Peer (P2P) networking stacks, decentralized cloud storage, content-addressed data systems, and local-first data sync engines.
+<img src="./assets/banner.svg" alt="Awesome Peer-to-Peer Networking & Distributed Data Systems Banner" width="100%" />
 
+# 🌐 Awesome Peer-to-Peer (P2P) Networking & Distributed Data Systems 🚀
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Track Awesome List Updates](https://img.shields.io/badge/Updates-Weekly-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Peer-To-Peer-Networking-Distributed-Data)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Peer-To-Peer-Networking-Distributed-Data/blob/main/README.md#how-to-contribute)
-[![P2P Ecosystem](https://img.shields.io/badge/Ecosystem-P2P%20%26%20Distributed%20Data-orange.svg)](#sector-overview--market-dynamics)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Peer-To-Peer-Networking-Distributed-Data/blob/main/README.md#-how-to-contribute)
+[![P2P Ecosystem](https://img.shields.io/badge/Ecosystem-P2P%20%26%20Distributed%20Data-orange.svg)](#-sector-overview--market-dynamics)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+
+<p align="center">
+  <strong>A curated directory of production-ready SaaS platforms, enterprise solutions, and open-source GitHub projects for Peer-to-Peer (P2P) networking stacks, decentralized cloud storage, content-addressed data systems, and local-first data sync engines.</strong>
+</p>
+
+</div>
 
 ---
 
-## Sector Overview & Market Dynamics
+## 📑 Table of Contents
 
-The global decentralized cloud storage and distributed data infrastructure market is valued at approximately **$2.8 billion to $3.5 billion in 2025–2026** and is projected to exceed **$8.8 billion by 2030**, advancing at a Compound Annual Growth Rate (CAGR) of **21% to 25.9%**. The sector is **moderately fragmented**: underlying core protocols (e.g., BitTorrent, IPFS/libp2p, WireGuard) demonstrate strong network-effect consolidation, while the commercial SaaS, enterprise file replication, and DePIN pinning gateway layers remain highly competitive with specialized multi-cloud, privacy-first, and web3 niche providers preventing single-vendor lock-in.
-
----
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS & Hosted Enterprise Platforms](#saas--hosted-enterprise-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-  - [Top Open-Source P2P & Distributed Data Repositories](#top-open-source-p2p--distributed-data-repositories)
-  - [Ecosystem Architectural Frameworks](#ecosystem-architectural-frameworks)
-- [Key Architectural Concepts](#key-architectural-concepts)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer & Security Considerations](#disclaimer--security-considerations)
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS & Hosted Enterprise Platforms](#️-saas--hosted-enterprise-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+  - [⭐ Top Open-Source P2P & Distributed Data Repositories](#-top-open-source-p2p--distributed-data-repositories)
+  - [🏗️ Ecosystem Architectural Frameworks](#️-ecosystem-architectural-frameworks)
+- [🧩 Key Architectural Concepts](#-key-architectural-concepts)
+- [📈 Star History](#-star-history)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [🛡️ Disclaimer & Security Considerations](#️-disclaimer--security-considerations)
 
 ---
 
-## SaaS & Hosted Enterprise Platforms
+## 📊 Sector Overview & Market Dynamics
+
+The global decentralized cloud storage and distributed data infrastructure market is valued at approximately **$2.8 billion to $3.5 billion in 2025–2026** and is projected to exceed **$8.8 billion by 2030**, advancing at a Compound Annual Growth Rate (CAGR) of **21% to 25.9%**. 
+
+The sector is **moderately fragmented**: underlying core protocols (such as BitTorrent, IPFS/libp2p, and WireGuard) demonstrate strong network-effect consolidation around battle-tested standards, while the commercial SaaS, enterprise file replication, and DePIN pinning gateway layers remain highly competitive with specialized multi-cloud, privacy-first, and web3 niche providers preventing single-vendor lock-in.
+
+---
+
+## ☁️ SaaS & Hosted Enterprise Platforms
 
 Enterprise and developer platforms offering turnkey hosted IPFS gateways, decentralized S3-compatible cloud storage, continuous file synchronization, and decentralized delivery networks. Sorted by company scale (market capitalization / valuation / funding descending).
 
@@ -47,11 +62,11 @@ Enterprise and developer platforms offering turnkey hosted IPFS gateways, decent
 
 ---
 
-## Open-Source GitHub Projects
+## 💻 Open-Source GitHub Projects
 
 Explore the most popular open-source peer-to-peer networking libraries, decentralized filesystems, zero-trust mesh networks, and real-time collaboration engines. **Sorted by GitHub star count (descending)**.
 
-### Top Open-Source P2P & Distributed Data Repositories
+### ⭐ Top Open-Source P2P & Distributed Data Repositories
 
 - **[Syncthing](https://github.com/syncthing/syncthing)** [![GitHub stars](https://img.shields.io/github/stars/syncthing/syncthing?style=social&color=white)](https://github.com/syncthing/syncthing/stargazers)  
   Continuous, open-source peer-to-peer file synchronization program written in Go featuring end-to-end TLS encryption, block-level delta sync, and zero central servers.
@@ -172,7 +187,7 @@ Explore the most popular open-source peer-to-peer networking libraries, decentra
 
 ---
 
-### Ecosystem Architectural Frameworks
+### 🏗️ Ecosystem Architectural Frameworks
 
 ```
                       +---------------------------------------+
@@ -220,7 +235,7 @@ Explore the most popular open-source peer-to-peer networking libraries, decentra
 
 ---
 
-## Key Architectural Concepts
+## 🧩 Key Architectural Concepts
 
 | Concept | Description | Reference Implementations |
 | :--- | :--- | :--- |
@@ -232,9 +247,33 @@ Explore the most popular open-source peer-to-peer networking libraries, decentra
 
 ---
 
-## How to Contribute
+## 📈 Star History
 
-We welcome active contributions to keep this ecosystem directory accurate and comprehensive!
+## Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Peer-To-Peer-Networking-Distributed-Data&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Peer-To-Peer-Networking-Distributed-Data&type=date&legend=top-left)
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Peer-To-Peer-Networking-Distributed-Data&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Peer-To-Peer-Networking-Distributed-Data&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you for exploring and utilizing the **Awesome Peer-to-Peer Networking & Distributed Data** directory! Maintaining, verifying, and expanding this ecosystem map is a continuous open-source labor of love.
+
+If you find this repository valuable for your research, projects, or infrastructure, here is how you can support our efforts:
+
+- ⭐ **Star this repository** to improve its visibility across the developer community.
+- 🍴 **Fork and contribute** by submitting new P2P libraries, protocols, or SaaS updates via Pull Requests.
+- 📢 **Share this list** on Twitter/X, LinkedIn, Reddit, Hacker News, or engineering Discord groups.
+- ☕ **Buy us a coffee & sponsor our development**: Support ongoing curation and open-source tooling directly through the **[GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007)**!
+
+[![Sponsor ishandutta2007](https://img.shields.io/badge/Sponsor-%E2%99%A5-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/ishandutta2007)
+
+---
+
+## 🤝 How to Contribute
+
+We welcome active contributions to keep this ecosystem directory accurate, up-to-date, and comprehensive!
 
 1. **Fork the repository** on GitHub.
 2. **Add or update an entry** in `README.md` keeping formatting consistent:
@@ -245,7 +284,7 @@ We welcome active contributions to keep this ecosystem directory accurate and co
 
 ---
 
-## Disclaimer & Security Considerations
+## 🛡️ Disclaimer & Security Considerations
 
 - This repository is a **community-curated index** intended for research, engineering, and architectural evaluation.
 - **Network Privacy**: Public DHT networks (such as BitTorrent Mainline DHT and IPFS Kademlia DHT) expose participant IP addresses by default unless wrapped in anonymity networks (e.g., Tor Onion Services, Veilid, or VPN relays).
@@ -256,7 +295,7 @@ We welcome active contributions to keep this ecosystem directory accurate and co
 
 <div align="center">
 
-**Curated with care for distributed systems architects, local-first builders, and decentralization engineers.**  
+**Curated with ❤️ for distributed systems architects, local-first builders, and decentralization engineers.**  
 *Star the repository if you find it helpful!*
 
 </div>
